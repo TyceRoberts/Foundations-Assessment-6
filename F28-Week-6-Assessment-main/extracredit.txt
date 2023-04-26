@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/building-and-packaging-web-application-projects/_static/image2.png
